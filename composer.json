@@ -20,7 +20,7 @@
 	"require": {
 		"php": ">=5.3.0",
 		"ext-pcntl": "*",
-		"colinmollenhour/credis": "～1.8",
+		"colinmollenhour/credis": "1.8.1",
 		"psr/log": "~1.0"
 	},
 	"suggest": {
