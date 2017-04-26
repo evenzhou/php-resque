@@ -7,8 +7,8 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Chris Boulton",
-			"email": "chris@bigcommerce.com"
+			"name": "evenzhou",
+			"email": "807890657@qq.com"
 		}
 	],
 	"repositories": [
@@ -20,7 +20,7 @@
 	"require": {
 		"php": ">=5.3.0",
 		"ext-pcntl": "*",
-		"colinmollenhour/credis": "~1.7",
+		"chrisboulton/credis": "dev-master",
 		"psr/log": "~1.0"
 	},
 	"suggest": {
