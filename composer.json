@@ -20,7 +20,7 @@
 	"require": {
 		"php": ">=5.3.0",
 		"ext-pcntl": "*",
-		"chrisboulton/credis": "dev-master",
+		"colinmollenhour/credis": "～1.8",
 		"psr/log": "~1.0"
 	},
 	"suggest": {
